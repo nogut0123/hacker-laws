@@ -680,7 +680,7 @@ Spotifyモデルとは、「Spotify」によって普及したチームと組織
 
 > すべての知識は、システム内で単一の明確で信頼できる表現を持つ必要があります。
 
-DRYは、 *Do n't Repeat Yourselfの*頭字語です。この原則は、開発者がコードの繰り返しを減らして情報を1か所に保管できるようにすることを目的としており、1999年にAndrew HuntとDave Thomasが 『 [The Pragmatic Developer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer) 』で引用しています。
+DRYは、 *Don't Repeat Yourselfの*頭字語です。この原則は、開発者がコードの繰り返しを減らして情報を1か所に保管できるようにすることを目的としており、1999年にAndrew HuntとDave Thomasが 『 [The Pragmatic Developer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer) 』で引用しています。
 
 > DRYの反対は*WET* （すべてを2回書き込むか、タイピングを楽しむ）です。
 
@@ -794,4 +794,4 @@ KISSの原則は、ほとんどのシステムは複雑にするのではなく�
 
 こんにちは！あなたがここに来たということは、私がまだ書き上げていないトピックへのリンクをクリックしたことにですね。
 
-リクエストしたい場合は  [Raise an Issue](https://github.com/dwmkerr/hacker-laws/issues) rをクリックするか、トピックの定義案を提出したい場合は [Open a Pull Request](https://github.com/dwmkerr/hacker-laws/pulls) をクリックしてください。
+リクエストしたい場合は  [Raise an Issue](https://github.com/dwmkerr/hacker-laws/issues) をクリックするか、トピックの定義案を提出したい場合は [Open a Pull Request](https://github.com/dwmkerr/hacker-laws/pulls) をクリックしてください。
